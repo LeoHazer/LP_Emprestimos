@@ -1,0 +1,3 @@
+## _LINGUAGENS DE PROGRAMAÇÃO: GERENCIADOR DE EMPRÉSTIMOS_
+-------------------------------------------------------------------------
+Exercício 5 da [lista](http://www2.ic.uff.br/~bazilio/cursos/lp/material/ListaExerciciosProgOO.pdf) da disciplina de Linguagens de programação cujo o objetivo é criar uma espécie de controle de empréstimos de livros e utensílios domésticos, utilizando alguns dos conceitos de Linguagem Orientada a Objeto (OO). Cada item a ser emprestado deve possuir uma classe específica, e as informações são mantidas em arquivo de texto para uma posterior consulta. A linguagem utilizada foi C#.
