@@ -154,35 +154,6 @@ namespace TRAB03
                 Console.WriteLine("Empréstimos: \n" + l);
             }
 
-
-
-
-
-
-
-            /**
-
-            Console.WriteLine();
-            Console.WriteLine("Livro info: \n" +  lvr1 + "\n");
-            Console.WriteLine("Utensílio info: \n" + emp1 + "\n");
-
-
-
-            int numr;
-            string nome;
-
-            Console.Write("Digite o seu nome: ");
-            nome = Console.ReadLine();
-            Console.Write("Digite sua idade: ");
-            numr = int.Parse(Console.ReadLine());
-
-            Console.WriteLine();
-            Console.Write("Seu nome: {0}\n", nome);
-            Console.WriteLine("Idade: {0}\n", numr.ToString());
-            
-            **/
-
-
         }
     }
 }
