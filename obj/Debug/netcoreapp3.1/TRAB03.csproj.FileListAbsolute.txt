@@ -1,0 +1,13 @@
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\bin\Debug\netcoreapp3.1\TRAB03.exe
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\bin\Debug\netcoreapp3.1\TRAB03.deps.json
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\bin\Debug\netcoreapp3.1\TRAB03.runtimeconfig.json
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\bin\Debug\netcoreapp3.1\TRAB03.runtimeconfig.dev.json
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\bin\Debug\netcoreapp3.1\TRAB03.dll
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\bin\Debug\netcoreapp3.1\TRAB03.pdb
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.csprojAssemblyReference.cache
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.AssemblyInfoInputs.cache
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.AssemblyInfo.cs
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.csproj.CoreCompileInputs.cache
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.dll
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.pdb
+C:\Users\fabio\UFF\Linguagens De Programação\TRAB03\obj\Debug\netcoreapp3.1\TRAB03.genruntimeconfig.cache
